@@ -80,11 +80,11 @@
 
         layer_3 {
             bindings = <
-&trans  &trans  &trans             &trans      &trans           &trans    &trans  &trans          &trans                &trans                 &trans  &trans  &trans
-&trans  &trans  &kp K_VOLUME_DOWN  &kp C_MUTE  &kp C_VOLUME_UP  &trans    &trans  &kp KP_DIVIDE   &kp LEFT_BRACKET      &kp RIGHT_BRACKET      &trans  &trans  &trans
-&trans  &trans  &kp C_REWIND       &kp C_PLAY  &kp C_FF         &trans    &trans  &kp MINUS       &kp LEFT_PARENTHESIS  &kp RIGHT_PARENTHESIS  &trans  &trans  &trans
-&trans  &trans  &trans             &trans      &trans           &trans    &trans  &kp UNDERSCORE  &kp LEFT_BRACE        &kp RIGHT_BRACE        &trans  &trans  &trans
-&trans  &trans  &trans             &trans      &trans           &trans    &trans  &trans          &trans                &kp PIPE               &trans  &trans
+&trans  &trans  &trans             &trans      &trans           &trans    &trans     &trans          &trans                &trans                 &trans  &trans  &trans
+&trans  &trans  &kp K_VOLUME_DOWN  &kp C_MUTE  &kp C_VOLUME_UP  &trans    &trans     &kp KP_DIVIDE   &kp LEFT_BRACKET      &kp RIGHT_BRACKET      &trans  &trans  &trans
+&trans  &trans  &kp C_REWIND       &kp C_PLAY  &kp C_FF         &trans    &trans     &kp MINUS       &kp LEFT_PARENTHESIS  &kp RIGHT_PARENTHESIS  &trans  &trans  &trans
+&trans  &trans  &trans             &trans      &trans           &trans    &trans     &kp UNDERSCORE  &kp LEFT_BRACE        &kp RIGHT_BRACE        &trans  &trans  &trans
+&trans  &trans  &trans             &trans      &trans           &trans    &mkp RCLK  &trans          &trans                &kp PIPE               &trans  &trans
             >;
         };
 
