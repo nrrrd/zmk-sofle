@@ -22,7 +22,7 @@ layers:
   - T
   - {t: '$$mdi:menu-down$$', s: '$$mdi:mouse$$'}
   - Y
-  - {t: J, h: '3'}
+  - {t: U, h: '3'}
   - I
   - O
   - P
@@ -35,7 +35,7 @@ layers:
   - G
   - {t: '$$mdi:menu-left$$', s: '$$mdi:mouse$$'}
   - H
-  - {t: M, h: '2'}
+  - {t: J, h: '2'}
   - K
   - L
   - {t: ;, s: ':'}
